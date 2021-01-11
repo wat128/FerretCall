@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">ferretcall</string>
+
+    <string name="title1">声</string>
+    <string name="title2">おもちゃ</string>
+
+    <string name="voice1">ぐる〜1</string>
+    <string name="voice2">ぐる〜2</string>
+    <string name="voice3">テト</string>
+    <string name="voice4">りんりん</string>
+
+    <string name="toy1">おニク</string>
+    <string name="toy2">あひる</string>
+    <string name="toy3">ダンベル</string>
+
+
 </resources>
