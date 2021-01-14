@@ -4,14 +4,22 @@
     <string name="title1">声</string>
     <string name="title2">おもちゃ</string>
 
-    <string name="voice1">ぐる〜1</string>
-    <string name="voice2">ぐる〜2</string>
-    <string name="voice3">テト</string>
-    <string name="voice4">りんりん</string>
+    <string name="guru01">ぐる〜1</string>
+    <string name="guru02">ぐる〜2</string>
+    <string name="oide01">おいで1</string>
+    <string name="oide02">おいで2</string>
+    <string name="teto01">てと1</string>
+    <string name="teto02">てと2</string>
+    <string name="rinrin01">りんりん1</string>
+    <string name="rinrin02">りんりん2</string>
 
-    <string name="toy1">おニク</string>
-    <string name="toy2">あひる</string>
-    <string name="toy3">ダンベル</string>
-
+    <string name="rion01">らいおん1</string>
+    <string name="rion02">らいおん2</string>
+    <string name="ahiru01">あひる1</string>
+    <string name="ahiru02">あひる2</string>
+    <string name="kaeru01">かえる1</string>
+    <string name="kaeru02">かえる2</string>
+    <string name="all01">全部1</string>
+    <string name="all02">全部2</string>
 
 </resources>

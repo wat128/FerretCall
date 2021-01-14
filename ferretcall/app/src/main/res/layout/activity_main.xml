@@ -25,29 +25,58 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <Button
-            android:id="@+id/btn_v1"
+            android:id="@+id/btn_guru01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/voice1"/>
+            android:text="@string/guru01"/>
         <Button
-            android:id="@+id/btn_v2"
+            android:id="@+id/btn_guru02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/voice2"/>
+            android:text="@string/guru02"/>
         <Button
-            android:id="@+id/btn_v3"
+            android:id="@+id/btn_oide01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/voice3"/>
+            android:text="@string/oide01"/>
         <Button
-            android:id="@+id/btn_v4"
+            android:id="@+id/btn_oide02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/voice4"/>
+            android:text="@string/oide02"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btn_teto01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/teto01"/>
+        <Button
+            android:id="@+id/btn_teto02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/teto02"/>
+        <Button
+            android:id="@+id/btn_rinrin01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rinrin01"/>
+        <Button
+            android:id="@+id/btn_rinrin02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rinrin02"/>
     </LinearLayout>
 
     <LinearLayout
@@ -68,23 +97,51 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <Button
-            android:id="@+id/btn_t1"
+            android:id="@+id/btn_rion01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/toy1"/>
+            android:text="@string/rion01"/>
         <Button
-            android:id="@+id/btn_t2"
+            android:id="@+id/btn_rion02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/toy2"/>
+            android:text="@string/rion02"/>
         <Button
-            android:id="@+id/btn_t3"
+            android:id="@+id/btn_ahiru01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/toy3"/>
+            android:text="@string/ahiru01"/>
+        <Button
+            android:id="@+id/btn_ahiru02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/ahiru02"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btn_kaeru01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/kaeru01"/>
+        <Button
+            android:id="@+id/btn_kaeru02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/kaeru02"/>
+        <Button
+            android:id="@+id/btn_all01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/all01"/>
     </LinearLayout>
 
 </LinearLayout>
